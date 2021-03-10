@@ -1,0 +1,1 @@
+In this project we are interacting with the API. A user can type in an object to the search bar. The browser will then return the images searched for. You can also click on the preset buttons which will change the images searched for.
